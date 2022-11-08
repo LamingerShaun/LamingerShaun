@@ -1,4 +1,4 @@
-<img src="/LamingerShaun/LamingerShaun/media.banner.jpg" alt="PS4 controller" style="max-width: 100%;">
+![PS4 Controller](/LamingerShaun/LamingerShaun/media.banner.jpg)
 
 ## About Me
 <sub>Welcome to my github, where I will be working on an uploading projects in both the near and far future. I am a student developer enrolled at MITT
